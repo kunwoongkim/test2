@@ -7,6 +7,7 @@ public class hellojava {
 		 System.out.println("hellojava");
 		 
 		 System.out.println("신명나");
+		 System.out.println("연우 테스트");
 		 
 	}
 
